@@ -1,0 +1,8 @@
+Case #1: AMBIGUOUS
+Case #2: AMBIGUOUS
+Case #3: AMBIGUOUS
+Case #4: t w
+Case #5: AMBIGUOUS
+Case #6: AMBIGUOUS
+Case #7: u a
+Case #8: w l b y d

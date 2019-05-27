@@ -1,0 +1,14 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "0.1.0",
+    "command": "D:\\Program Files\\Python\\Python37\\python.exe",
+    "args": ["./5/challenge5.py"],
+    "problemMatcher": {
+        "fileLocation": ["relative", "${workspaceRoot}"],
+        "pattern": {
+            "regexp": "^(.*)+s$",
+            "message": 1
+        }
+    }
+}
